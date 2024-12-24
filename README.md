@@ -2,12 +2,12 @@
 The animated login form project uses HTML and CSS to create a beautiful and fully responsive form. It has a nice design, informative animations, and a good user interface which does not impede the working of the app.
 
 ✨ Features
-Modern and responsive design.
-Smooth spinner animation for an interactive background.
-Highlighted input fields with transitions.
+Modern and responsive design.  
+Smooth spinner animation for an interactive background.  
+Highlighted input fields with transitions.  
 User-friendly login form with labels and placeholders.
 
-🛠️ Technologies Used
+🛠️ Technologies Used  
 HTML5: Markup structure for the login form.  
 CSS3: Styling and animations for the design.
 

@@ -8,7 +8,7 @@ Highlighted input fields with transitions.
 User-friendly login form with labels and placeholders.
 
 🛠️ Technologies Used
-HTML5: Markup structure for the login form.
+HTML5: Markup structure for the login form.  
 CSS3: Styling and animations for the design.
 
 📸 Preview
